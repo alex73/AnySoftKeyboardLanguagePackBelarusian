@@ -13,15 +13,25 @@
 	
 	* are optional.
 	 -->
-	<Keyboard 
-	id="a random UUID" 
-	nameResId="@string/keyboard"
-	layoutResId="@xml/qwerty"
-	landscapeResId="@xml/qwerty"
-	physicalKeyboardMappingResId="@xml/ru_physical"
-	iconResId="@drawable/flag"
-	defaultDictionaryLocale="valid locate, e.g. 'en'" 
-	description="Created by you!"
-	index="1"/>
 	<!-- you can add additional layouts. Just create additional Keyboard xml node. -->
+	<Keyboard 
+	id="cf2607f0-f368-11e1-a21f-0800200c9a66" 
+	nameResId="@string/be_cyrillic_keyboard"
+	layoutResId="@xml/be_cyrillic"
+	landscapeResId="@xml/be_cyrillic"
+	physicalKeyboardMappingResId="@xml/cyrillic_physical"
+	iconResId="@drawable/be_cyrillic"
+	defaultDictionaryLocale="be" 
+	description="Created with alex73"
+	index="1"/>
+	<Keyboard 
+	id="cf2607f1-f368-11e1-a21f-0800200c9a66" 
+	nameResId="@string/be_latin_keyboard"
+	layoutResId="@xml/be_latin"
+	landscapeResId="@xml/be_latin"
+	physicalKeyboardMappingResId="@xml/latin_physical"
+	iconResId="@drawable/be_latin"
+	defaultDictionaryLocale="be" 
+	description="Created with alex73"
+	index="2"/>
 </Keyboards>

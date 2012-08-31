@@ -8,11 +8,4 @@
 	dictionaryAssertName := the binary data holder
 	description := some text you would like to add.
 	 -->
-	<Dictionary 
-		id="some uuid" 
-		locale="A valid locale identifier"
-		nameResId="@string/dictionary" 
-		type="binary" 
-		dictionaryAssertName="binary.mp3" 
-		description=""/>
 </Dictionaries>
