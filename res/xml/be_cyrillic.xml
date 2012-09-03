@@ -16,12 +16,12 @@
         <Key android:codes="0x043A" android:keyLabel=""/>
         <Key android:codes="0x0435" android:keyLabel=""/>
         <Key android:codes="0x043D" android:keyLabel=""/>
-        <Key android:codes="0x0433" android:keyLabel=""/>
+        <Key android:codes="0x0433" android:keyLabel="" android:popupCharacters="&#x0491;"/>
         <Key android:codes="0x0448" android:keyLabel=""/>
         <Key android:codes="0x045E" android:keyLabel=""/>
         <Key android:codes="0x0437" android:keyLabel=""/>
         <Key android:codes="0x0445" android:keyLabel=""/>
-        <Key android:codes="0x0027" android:keyLabel="'" android:keyEdgeFlags="right"/>
+        <Key android:codes="0x02BC" android:keyLabel="'" android:keyEdgeFlags="right"/>
     </Row>
     
     <Row android:keyWidth="8.33%p">
