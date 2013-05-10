@@ -22,7 +22,7 @@
 	physicalKeyboardMappingResId="@xml/cyrillic_physical"
 	iconResId="@drawable/be_cyrillic"
 	defaultDictionaryLocale="be" 
-	description="Created with alex73"
+	description="Created by alex73"
 	index="1"/>
 	<Keyboard 
 	id="cf2607f1-f368-11e1-a21f-0800200c9a66" 
@@ -32,6 +32,26 @@
 	physicalKeyboardMappingResId="@xml/latin_physical"
 	iconResId="@drawable/be_latin"
 	defaultDictionaryLocale="be" 
-	description="Created with alex73"
+	description="Created by alex73"
 	index="2"/>
+	<Keyboard 
+	id="cf2607f2-f368-11e1-a21f-0800200c9a66" 
+	nameResId="@string/be_cyrillic_typo_keyboard"
+	layoutResId="@xml/be_cyrillic_typo"
+	landscapeResId="@xml/be_cyrillic_typo"
+	physicalKeyboardMappingResId="@xml/cyrillic_typo_physical"
+	iconResId="@drawable/be_cyrillic_typo"
+	defaultDictionaryLocale="be" 
+	description="Created by eratyk"
+	index="3"/>
+	<Keyboard 
+	id="cf2607f3-f368-11e1-a21f-0800200c9a66" 
+	nameResId="@string/be_latin_typo_keyboard"
+	layoutResId="@xml/be_latin_typo"
+	landscapeResId="@xml/be_latin_typo"
+	physicalKeyboardMappingResId="@xml/latin_typo_physical"
+	iconResId="@drawable/be_latin_typo"
+	defaultDictionaryLocale="be" 
+	description="Created by eratyk"
+	index="4"/>
 </Keyboards>
